@@ -42,3 +42,9 @@ df.to_csv('customer_personality_cleaned.csv', index=False)
 
 print("Data cleaning completed. Cleaned data saved to 'customer_personality_cleaned.csv'.")
 print(df)
+
+-------------Cleaned File-------------
+
+[customer_personality_cleaned.csv](https://github.com/user-attachments/files/25264984/customer_personality_cleaned.csv)
+
+
